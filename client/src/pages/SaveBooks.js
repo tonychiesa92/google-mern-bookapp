@@ -28,7 +28,9 @@ class SaveBook extends Component {
     render() {
         return (
             <Container fluid className="container">
-                <Jumbotron />
+                <Jumbotron>
+                    <h1 className="text-white display-4 font-weight-bold">Your Saved Books</h1>
+                </Jumbotron>
                 <Container>
                     <SavedResult savedBooks={this.state.savedBooks} handleDeleteButton={this.handleDeleteButton} />
                 </Container>
