@@ -11,9 +11,11 @@ class SaveBook extends Component {
 
     //when this component mounts, grab all books that were save to the database 
     componentDidMount() {
+       console.log("we are here");
         API.getBooks()
             .then(res => this.setState({ savedBooks: res.data }))
             .catch(err => console.log(err))
+
     }
 
     //function to remove book by id
@@ -34,7 +36,5 @@ class SaveBook extends Component {
         )
     }
 }
-
-
 
 export default SaveBook 

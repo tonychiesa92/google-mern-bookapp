@@ -4,7 +4,6 @@ import Jumbotron from "../components/Jumbotron";
 import { Container, Row, Col } from "../components/Grid";
 import SearchForm from "../components/SearchForm";
 import SearchResult from "../components/SearchResult";
-import Footer from "../components/Footer";
 
 
 class SearchBooks extends Component {
