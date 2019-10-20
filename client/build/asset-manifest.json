@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b594fee1.chunk.css",
+    "main.js": "/static/js/main.f48c58a9.chunk.js",
+    "main.js.map": "/static/js/main.f48c58a9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d80f8818.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d80f8818.js.map",
+    "static/js/2.a125c973.chunk.js": "/static/js/2.a125c973.chunk.js",
+    "static/js/2.a125c973.chunk.js.map": "/static/js/2.a125c973.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.87482bd180cb54d91f35c4fb79edb768.js": "/precache-manifest.87482bd180cb54d91f35c4fb79edb768.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b594fee1.chunk.css.map": "/static/css/main.b594fee1.chunk.css.map",
+    "static/media/style.css": "/static/media/bookshelf.04512222.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d80f8818.js",
+    "static/js/2.a125c973.chunk.js",
+    "static/css/main.b594fee1.chunk.css",
+    "static/js/main.f48c58a9.chunk.js"
+  ]
+}
